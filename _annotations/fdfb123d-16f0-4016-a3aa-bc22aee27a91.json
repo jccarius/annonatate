@@ -21,7 +21,7 @@ order: 1
         "source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
         "selector": {
             "type": "SvgSelector",
-            "value": "<svg><polygon points=\"56637.54296875,294.6869812011719 57009.36328125,478.3233337402344 56931.73057519544,635.5112577341364 56559.91026269544,451.8749051950739\" /></svg>"
+            "value": "<svg><polygon points=\"56637.54296875,294.6869812011719 57073.91015625,317.41424560546875 57064.791673091546,492.4906111256455 56628.424485591546,469.7633467213486\"></polygon></svg>"
         },
         "renderedVia": {
             "name": "annotorious-tilted-box"
