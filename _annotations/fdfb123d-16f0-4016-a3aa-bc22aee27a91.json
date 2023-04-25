@@ -1,0 +1,37 @@
+---
+canvas: "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "annotation 1",
+            "purpose": "commenting",
+            "creator": {
+                "id": "jccarius",
+                "name": "Jean-Christophe Carius"
+            },
+            "created": "2023-04-25T12:14:50.951Z",
+            "modified": "2023-04-25T12:14:54.584Z"
+        }
+    ],
+    "target": {
+        "source": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/canvas/fullBayeux.json",
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><polygon points=\"56637.54296875,294.6869812011719 57009.36328125,478.3233337402344 56931.73057519544,635.5112577341364 56559.91026269544,451.8749051950739\" /></svg>"
+        },
+        "renderedVia": {
+            "name": "annotorious-tilted-box"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://dnoneill.github.io/wax-iiif/img/derivatives/iiif/fullBayeux/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fdfb123d-16f0-4016-a3aa-bc22aee27a91.json",
+    "motivation": "commenting"
+}
